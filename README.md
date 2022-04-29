@@ -28,11 +28,11 @@ Level 2:
 
 Level 3:
 - Rabbit Hole 2
+- Slippery Trip
 
 # Missing Solutions
 Level 3:
 - Boss Fight
-- Slippery Trip
 - Stack Stabilization 2
 
 Level 4:
