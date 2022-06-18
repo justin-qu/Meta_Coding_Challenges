@@ -30,13 +30,16 @@ Level 3:
 - Rabbit Hole 2
 - Slippery Trip
 
+Level 4:
+- Conveyor Chaos (Correctness)
+
 # Missing Solutions
 Level 3:
 - Boss Fight
 - Stack Stabilization 2
 
 Level 4:
-- Conveyor Chaos
+- Conveyor Chaos (Efficiency)
 - Mathmatical Art
 
 # Dependencies
