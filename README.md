@@ -31,7 +31,7 @@ Level 3:
 - Slippery Trip
 - Boss Fight
 - Stack Stabilization 2
-- 
+
 Level 4:
 - Conveyor Chaos (Correctness)
 
